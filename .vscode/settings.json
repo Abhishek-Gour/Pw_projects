@@ -1,7 +1,8 @@
 {
-    "files.autoSave": "afterDelay",
-    "code-runner.clearPreviousOutput": true,
-    "code-runner.runInTerminal": true,
-    "code-runner.saveFileBeforeRun": true,
-    "editor.formatOnSave": true
+  "files.autoSave": "afterDelay",
+  "code-runner.clearPreviousOutput": true,
+  "code-runner.runInTerminal": true,
+  "code-runner.saveFileBeforeRun": true,
+  "editor.formatOnSave": true,
+  "editor.fontSize": 18
 }
